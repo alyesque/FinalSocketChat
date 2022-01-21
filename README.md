@@ -2,6 +2,8 @@ A personal project that uses React and a basic Express server to offer simple we
 
 This application uses socket.io to create an event-driven Express server and uses React hooks to render messages on the front end. It also supports the ceration of individual chat rooms which users can join or create upon login.
 
+<strong> Stack: React, Node, Express, Socket.io </strong>
+
 Features:
 
 1. Basic login support that allows a user to select a temporary username as well as specify the room they would like to join. If the room does not exist the server will create it, and if it does exist the server will add the user to the room. 
