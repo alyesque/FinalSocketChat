@@ -1,3 +1,7 @@
+<p align="center">
+<img src='https://i.imgur.com/gBd2ZQN.png' alt='login form' width='500'>
+  </p>
+
 A personal project that uses React and a basic Express server to offer simple websocket-based live chats.
 
 This application uses socket.io to create an event-driven Express server and uses React hooks to render messages on the front end. It also supports the ceration of individual chat rooms which users can join or create upon login.
