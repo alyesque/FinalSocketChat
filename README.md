@@ -17,8 +17,6 @@ This application uses socket.io to create an event-driven Express server and use
   <li> React
   <li> Node.js
   <li> Express
-  <li> Mongoose
-  <li> MongoDB
   <li> Socket.io
   <li> Git
   <li> Github 
