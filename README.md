@@ -6,7 +6,7 @@
 
 A personal project that uses React and a basic Express server to offer simple websocket-based live chats.
 
-This application uses socket.io to create an event-driven Express server and uses React hooks to render messages on the front end. It also supports the ceration of individual chat rooms which users can join or create upon login.
+This application uses socket.io to create an event-driven Express server and uses React hooks to render messages on the front end. It also supports the ceration of individual chat rooms which users can join or create upon login. 
 
 <h1>Technologies</h1>
 
